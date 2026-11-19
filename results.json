@@ -1,0 +1,1972 @@
+{
+ "growth": {
+  "summary": {
+   "n_seeds": 10,
+   "ref_cells": 1140,
+   "mean_similarity": 0.9459820862653864,
+   "min_similarity": 0.9134615384615384,
+   "max_similarity": 0.9763572679509632,
+   "mean_aligned": 0.9459820862653864,
+   "self_similarity_50_steps_later": 0.9807524059492564,
+   "tissue_counts": {
+    "scaffold": 315,
+    "shell": 178,
+    "conduit": 103,
+    "core": 60,
+    "sensor": 141,
+    "radiator": 343
+   }
+  },
+  "rows": [
+   {
+    "seed": 1,
+    "cells": 1139,
+    "similarity": 0.9702537182852143,
+    "aligned": 0.9702537182852143,
+    "mean_class_iou": 0.9443973176581872,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       27,
+       18
+      ]
+     ]
+    }
+   },
+   {
+    "seed": 2,
+    "cells": 1143,
+    "similarity": 0.9134615384615384,
+    "aligned": 0.9134615384615384,
+    "mean_class_iou": 0.8377409727462997,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       31,
+       18
+      ]
+     ]
+    }
+   },
+   {
+    "seed": 3,
+    "cells": 1144,
+    "similarity": 0.963382737576286,
+    "aligned": 0.963382737576286,
+    "mean_class_iou": 0.9350423671403164,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       26,
+       18
+      ]
+     ]
+    }
+   },
+   {
+    "seed": 4,
+    "cells": 1135,
+    "similarity": 0.9631901840490797,
+    "aligned": 0.9631901840490797,
+    "mean_class_iou": 0.933581171810534,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       26,
+       18
+      ]
+     ]
+    }
+   },
+   {
+    "seed": 5,
+    "cells": 1141,
+    "similarity": 0.9763572679509632,
+    "aligned": 0.9763572679509632,
+    "mean_class_iou": 0.9525540707665406,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       27,
+       18
+      ]
+     ]
+    }
+   },
+   {
+    "seed": 6,
+    "cells": 1141,
+    "similarity": 0.9606643356643356,
+    "aligned": 0.9606643356643356,
+    "mean_class_iou": 0.9250445262643279,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       26,
+       18
+      ]
+     ]
+    }
+   },
+   {
+    "seed": 7,
+    "cells": 1137,
+    "similarity": 0.9150612959719789,
+    "aligned": 0.9150612959719789,
+    "mean_class_iou": 0.8345250296013814,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       31,
+       17
+      ]
+     ]
+    }
+   },
+   {
+    "seed": 8,
+    "cells": 1139,
+    "similarity": 0.9554585152838428,
+    "aligned": 0.9554585152838428,
+    "mean_class_iou": 0.9152559070980324,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       28,
+       18
+      ]
+     ]
+    }
+   },
+   {
+    "seed": 9,
+    "cells": 1140,
+    "similarity": 0.9213286713286714,
+    "aligned": 0.9213286713286714,
+    "mean_class_iou": 0.8555650355703576,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       30,
+       18
+      ]
+     ]
+    }
+   },
+   {
+    "seed": 10,
+    "cells": 1143,
+    "similarity": 0.9206625980819529,
+    "aligned": 0.9206625980819529,
+    "mean_class_iou": 0.8597054202337434,
+    "organizers": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       30,
+       18
+      ]
+     ]
+    }
+   }
+  ]
+ },
+ "regeneration": {
+  "noise_floor": 0.9757286064766378,
+  "twin_aligned": 0.9781277340332458,
+  "rows": [
+   {
+    "name": "anterior amputation (incl. organizer A)",
+    "regen": true,
+    "frac_removed": 0.2894736842105263,
+    "organizers_destroyed": [
+     "A"
+    ],
+    "aligned_final": 0.9746724890829694,
+    "final": 0.9746724890829694,
+    "cells": 1143,
+    "orgs_after": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       27,
+       18
+      ]
+     ]
+    },
+    "final_mean_last50": 0.9723144104803494,
+    "steps_to_recover": 49,
+    "recovered": true
+   },
+   {
+    "name": "large anterior amputation (incl. A)",
+    "regen": true,
+    "frac_removed": 0.3868421052631579,
+    "organizers_destroyed": [
+     "A"
+    ],
+    "aligned_final": 0.974716652136007,
+    "final": 0.974716652136007,
+    "cells": 1144,
+    "orgs_after": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       27,
+       18
+      ]
+     ]
+    },
+    "final_mean_last50": 0.9682569697429798,
+    "steps_to_recover": 85,
+    "recovered": true
+   },
+   {
+    "name": "core excision (incl. organizer C)",
+    "regen": true,
+    "frac_removed": 0.25701754385964914,
+    "organizers_destroyed": [
+     "C"
+    ],
+    "aligned_final": 0.9737762237762237,
+    "final": 0.9737762237762237,
+    "cells": 1142,
+    "orgs_after": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       27,
+       18
+      ]
+     ]
+    },
+    "final_mean_last50": 0.9744324529363901,
+    "steps_to_recover": 105,
+    "recovered": true
+   },
+   {
+    "name": "posterior wedge (incl. organizer P)",
+    "regen": true,
+    "frac_removed": 0.33421052631578946,
+    "organizers_destroyed": [
+     "P"
+    ],
+    "aligned_final": 0.944202266782912,
+    "final": 0.944202266782912,
+    "cells": 1143,
+    "orgs_after": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": [
+      [
+       27,
+       17
+      ]
+     ]
+    },
+    "final_mean_last50": 0.943558399663962,
+    "steps_to_recover": 156,
+    "recovered": false
+   },
+   {
+    "name": "anterior amputation (incl. organizer A)",
+    "regen": false,
+    "frac_removed": 0.2894736842105263,
+    "organizers_destroyed": [
+     "A"
+    ],
+    "aligned_final": 0.4781468531468531,
+    "final": 0.4781468531468531,
+    "cells": 1142,
+    "orgs_after": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [],
+     "P": []
+    },
+    "final_mean_last50": 0.47722027972027975,
+    "steps_to_recover": null,
+    "recovered": false
+   },
+   {
+    "name": "large anterior amputation (incl. A)",
+    "regen": false,
+    "frac_removed": 0.3868421052631579,
+    "organizers_destroyed": [
+     "A"
+    ],
+    "aligned_final": 0.479020979020979,
+    "final": 0.479020979020979,
+    "cells": 1142,
+    "orgs_after": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [],
+     "P": []
+    },
+    "final_mean_last50": 0.4780545657591753,
+    "steps_to_recover": null,
+    "recovered": false
+   },
+   {
+    "name": "core excision (incl. organizer C)",
+    "regen": false,
+    "frac_removed": 0.25701754385964914,
+    "organizers_destroyed": [
+     "C"
+    ],
+    "aligned_final": 0.0,
+    "final": 0.0,
+    "cells": 0,
+    "orgs_after": {
+     "C": [],
+     "A": [],
+     "P": []
+    },
+    "final_mean_last50": 0.0,
+    "steps_to_recover": null,
+    "recovered": false
+   },
+   {
+    "name": "posterior wedge (incl. organizer P)",
+    "regen": false,
+    "frac_removed": 0.33421052631578946,
+    "organizers_destroyed": [
+     "P"
+    ],
+    "aligned_final": 0.888986013986014,
+    "final": 0.888986013986014,
+    "cells": 1142,
+    "orgs_after": {
+     "C": [
+      [
+       29,
+       29
+      ]
+     ],
+     "A": [
+      [
+       29,
+       42
+      ]
+     ],
+     "P": []
+    },
+    "final_mean_last50": 0.8899602307704201,
+    "steps_to_recover": null,
+    "recovered": false
+   }
+  ]
+ },
+ "mutation": {
+  "table": [
+   {
+    "condition": "all 3 layers ON",
+    "mu": 0.0,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9285876284521516,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all 3 layers ON",
+    "mu": 0.001,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9217025005321391,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all 3 layers ON",
+    "mu": 0.003,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9164779289593072,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all 3 layers ON",
+    "mu": 0.01,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9385469944978839,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all 3 layers ON",
+    "mu": 0.03,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9473853899858131,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all 3 layers ON",
+    "mu": 0.1,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.8888458300375042,
+    "mean_mutant_frac": 0.0005810592903311194,
+    "extinct": 0
+   },
+   {
+    "condition": "no proofreading",
+    "mu": 0.0,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9285876284521516,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "no proofreading",
+    "mu": 0.001,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9113520817295355,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "no proofreading",
+    "mu": 0.003,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.930644717093769,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "no proofreading",
+    "mu": 0.01,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9229532280685473,
+    "mean_mutant_frac": 0.0005807200929152149,
+    "extinct": 0
+   },
+   {
+    "condition": "no proofreading",
+    "mu": 0.03,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.880766494115061,
+    "mean_mutant_frac": 0.002328997956414448,
+    "extinct": 0
+   },
+   {
+    "condition": "no proofreading",
+    "mu": 0.1,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.7660818713450293,
+    "mean_fidelity": 0.046315426997245175,
+    "mean_mutant_frac": 0.9993686868686869,
+    "extinct": 0
+   },
+   {
+    "condition": "no redundancy",
+    "mu": 0.0,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9285876284521516,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "no redundancy",
+    "mu": 0.001,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9035442603846455,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "no redundancy",
+    "mu": 0.003,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9116138520943958,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "no redundancy",
+    "mu": 0.01,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.914420733584223,
+    "mean_mutant_frac": 0.002319518176183675,
+    "extinct": 0
+   },
+   {
+    "condition": "no redundancy",
+    "mu": 0.03,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.8962746165374129,
+    "mean_mutant_frac": 0.005812716353500041,
+    "extinct": 0
+   },
+   {
+    "condition": "no redundancy",
+    "mu": 0.1,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.765497076023392,
+    "mean_fidelity": 0.053383644771560504,
+    "mean_mutant_frac": 0.8803769727579319,
+    "extinct": 0
+   },
+   {
+    "condition": "no apoptosis/clearance",
+    "mu": 0.0,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.887164918886665,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "no apoptosis/clearance",
+    "mu": 0.001,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9272682057661384,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "no apoptosis/clearance",
+    "mu": 0.003,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9068200655946865,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "no apoptosis/clearance",
+    "mu": 0.01,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9080686161085957,
+    "mean_mutant_frac": 0.0008727793011324037,
+    "extinct": 0
+   },
+   {
+    "condition": "no apoptosis/clearance",
+    "mu": 0.03,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9049877184316971,
+    "mean_mutant_frac": 0.01188760622207371,
+    "extinct": 0
+   },
+   {
+    "condition": "no apoptosis/clearance",
+    "mu": 0.1,
+    "n": 4,
+    "tumor_incidence": 0.25,
+    "mean_overgrowth_frac": 0.08450292397660819,
+    "mean_fidelity": 0.8559546483580782,
+    "mean_mutant_frac": 0.32189348849529376,
+    "extinct": 0
+   },
+   {
+    "condition": "proofreading only",
+    "mu": 0.0,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.887164918886665,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "proofreading only",
+    "mu": 0.001,
+    "n": 4,
+    "tumor_incidence": 0.25,
+    "mean_overgrowth_frac": 0.03976608187134503,
+    "mean_fidelity": 0.8420343134629538,
+    "mean_mutant_frac": 0.19018719469921055,
+    "extinct": 0
+   },
+   {
+    "condition": "proofreading only",
+    "mu": 0.003,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.3371345029239765,
+    "mean_fidelity": 0.19418563799757524,
+    "mean_mutant_frac": 0.865420728014512,
+    "extinct": 0
+   },
+   {
+    "condition": "proofreading only",
+    "mu": 0.01,
+    "n": 4,
+    "tumor_incidence": 0.75,
+    "mean_overgrowth_frac": 2.7871345029239767,
+    "mean_fidelity": 0.301038834800431,
+    "mean_mutant_frac": 0.8865743089859461,
+    "extinct": 0
+   },
+   {
+    "condition": "proofreading only",
+    "mu": 0.03,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.761111111111111,
+    "mean_fidelity": 0.09035741127626351,
+    "mean_mutant_frac": 0.9951162236317144,
+    "extinct": 0
+   },
+   {
+    "condition": "proofreading only",
+    "mu": 0.1,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.764912280701754,
+    "mean_fidelity": 0.06331677635755391,
+    "mean_mutant_frac": 0.999540731362567,
+    "extinct": 0
+   },
+   {
+    "condition": "redundancy only",
+    "mu": 0.0,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.887164918886665,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "redundancy only",
+    "mu": 0.001,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9029651786693927,
+    "mean_mutant_frac": 0.0002910360884749709,
+    "extinct": 0
+   },
+   {
+    "condition": "redundancy only",
+    "mu": 0.003,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9131979562466614,
+    "mean_mutant_frac": 0.01974755232638732,
+    "extinct": 0
+   },
+   {
+    "condition": "redundancy only",
+    "mu": 0.01,
+    "n": 4,
+    "tumor_incidence": 0.25,
+    "mean_overgrowth_frac": 0.9415204678362573,
+    "mean_fidelity": 0.7071316360031149,
+    "mean_mutant_frac": 0.4121979983442311,
+    "extinct": 0
+   },
+   {
+    "condition": "redundancy only",
+    "mu": 0.03,
+    "n": 4,
+    "tumor_incidence": 0.75,
+    "mean_overgrowth_frac": 2.820760233918129,
+    "mean_fidelity": 0.20729239173549385,
+    "mean_mutant_frac": 0.9587136974484467,
+    "extinct": 0
+   },
+   {
+    "condition": "redundancy only",
+    "mu": 0.1,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.7660818713450293,
+    "mean_fidelity": 0.044536271808999085,
+    "mean_mutant_frac": 0.9997704315886135,
+    "extinct": 0
+   },
+   {
+    "condition": "apoptosis/clearance only",
+    "mu": 0.0,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9285876284521516,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "apoptosis/clearance only",
+    "mu": 0.001,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9013112102844578,
+    "mean_mutant_frac": 0.0005830905772562715,
+    "extinct": 0
+   },
+   {
+    "condition": "apoptosis/clearance only",
+    "mu": 0.003,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.8985859438479799,
+    "mean_mutant_frac": 0.007550612826325052,
+    "extinct": 0
+   },
+   {
+    "condition": "apoptosis/clearance only",
+    "mu": 0.01,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.7631578947368425,
+    "mean_fidelity": 0.06088939204963787,
+    "mean_mutant_frac": 0.9097905395122247,
+    "extinct": 0
+   },
+   {
+    "condition": "apoptosis/clearance only",
+    "mu": 0.03,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.7622807017543862,
+    "mean_fidelity": 0.037623925055098546,
+    "mean_mutant_frac": 0.9996551585793192,
+    "extinct": 0
+   },
+   {
+    "condition": "apoptosis/clearance only",
+    "mu": 0.1,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.764327485380117,
+    "mean_fidelity": 0.03571086151281628,
+    "mean_mutant_frac": 0.9997703524816488,
+    "extinct": 0
+   },
+   {
+    "condition": "ALL OFF",
+    "mu": 0.0,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.887164918886665,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "ALL OFF",
+    "mu": 0.001,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.7116959064327486,
+    "mean_fidelity": 0.13901784654879468,
+    "mean_mutant_frac": 0.9698028005929062,
+    "extinct": 0
+   },
+   {
+    "condition": "ALL OFF",
+    "mu": 0.003,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.7660818713450293,
+    "mean_fidelity": 0.05664600550964187,
+    "mean_mutant_frac": 0.9959251606978881,
+    "extinct": 0
+   },
+   {
+    "condition": "ALL OFF",
+    "mu": 0.01,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.765497076023392,
+    "mean_fidelity": 0.043105910371853386,
+    "mean_mutant_frac": 0.9994834183606233,
+    "extinct": 0
+   },
+   {
+    "condition": "ALL OFF",
+    "mu": 0.03,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.7660818713450293,
+    "mean_fidelity": 0.042871900826446284,
+    "mean_mutant_frac": 0.9997704315886135,
+    "extinct": 0
+   },
+   {
+    "condition": "ALL OFF",
+    "mu": 0.1,
+    "n": 4,
+    "tumor_incidence": 1.0,
+    "mean_overgrowth_frac": 3.7628654970760236,
+    "mean_fidelity": 0.036983791408260594,
+    "mean_mutant_frac": 0.9997702865167315,
+    "extinct": 0
+   },
+   {
+    "condition": "all ON except neighbour clearance",
+    "mu": 0.0,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.887164918886665,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all ON except neighbour clearance",
+    "mu": 0.001,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9272682057661384,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all ON except neighbour clearance",
+    "mu": 0.003,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9068200655946865,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all ON except neighbour clearance",
+    "mu": 0.01,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9114689639409789,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all ON except neighbour clearance",
+    "mu": 0.03,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9333250757170142,
+    "mean_mutant_frac": 0.0,
+    "extinct": 0
+   },
+   {
+    "condition": "all ON except neighbour clearance",
+    "mu": 0.1,
+    "n": 4,
+    "tumor_incidence": 0.0,
+    "mean_overgrowth_frac": 0.0,
+    "mean_fidelity": 0.9040934895825187,
+    "mean_mutant_frac": 0.00028968713789107763,
+    "extinct": 0
+   }
+  ],
+  "ref_cells": 855
+ },
+ "scaling": {
+  "rows": [
+   {
+    "lam": 4.0,
+    "body_cells": 413.5,
+    "body_diameter": 22.945251180756113,
+    "genome_bytes": 131,
+    "genome_bytes_per_block_x3": 393,
+    "genome_sha": "df78d46b265b2269",
+    "tissue_fractions": {
+     "scaffold": 0.26479103063480364,
+     "shell": 0.18621550806517645,
+     "conduit": 0.08103777005766688,
+     "core": 0.050786047654139035,
+     "sensor": 0.11487174088500543,
+     "radiator": 0.30229790270320855
+    },
+    "shape_similarity_to_mid_scale": 0.7700949367088608,
+    "blueprint_raw_bytes": 529,
+    "blueprint_zlib_bytes": 98,
+    "blueprint_1KB_per_block": 423936
+   },
+   {
+    "lam": 7.0,
+    "body_cells": 1139.5,
+    "body_diameter": 38.090109756020894,
+    "genome_bytes": 131,
+    "genome_bytes_per_block_x3": 393,
+    "genome_sha": "df78d46b265b2269",
+    "tissue_fractions": {
+     "scaffold": 0.2746830861174006,
+     "shell": 0.1575250681576637,
+     "conduit": 0.08907359487392758,
+     "core": 0.05353226129414845,
+     "sensor": 0.12373812054279684,
+     "radiator": 0.30144786901406284
+    },
+    "shape_similarity_to_mid_scale": 0.9867591424968474,
+    "blueprint_raw_bytes": 1369,
+    "blueprint_zlib_bytes": 166,
+    "blueprint_1KB_per_block": 1167360
+   },
+   {
+    "lam": 11.0,
+    "body_cells": 2689.5,
+    "body_diameter": 58.518183119140154,
+    "genome_bytes": 131,
+    "genome_bytes_per_block_x3": 393,
+    "genome_sha": "df78d46b265b2269",
+    "tissue_fractions": {
+     "scaffold": 0.28871453124170515,
+     "shell": 0.13589859717577107,
+     "conduit": 0.09072383308117005,
+     "core": 0.053913383566916176,
+     "sensor": 0.1262319918909593,
+     "radiator": 0.30451766304347827
+    },
+    "shape_similarity_to_mid_scale": 0.8584995251661918,
+    "blueprint_raw_bytes": 3481,
+    "blueprint_zlib_bytes": 265,
+    "blueprint_1KB_per_block": 2755584
+   }
+  ],
+  "same_genome": true
+ },
+ "morph": {
+  "shift_cells": 6,
+  "final_similarity_to_shifted_plan": 0.9559204840103717,
+  "stored_blueprint_similarity_to_shifted_plan": 0.3303964757709251,
+  "body_similarity_to_old_blueprint": 0.33259911894273125,
+  "steps_to_090": 155,
+  "orgs_before": {
+   "C": [
+    [
+     29,
+     29
+    ]
+   ],
+   "A": [
+    [
+     29,
+     42
+    ]
+   ],
+   "P": [
+    [
+     27,
+     18
+    ]
+   ]
+  },
+  "orgs_after": {
+   "C": [
+    [
+     29,
+     35
+    ]
+   ],
+   "A": [
+    [
+     29,
+     48
+    ]
+   ],
+   "P": [
+    [
+     26,
+     24
+    ]
+   ]
+  }
+ },
+ "core_robustness": [
+  {
+   "seed": 0,
+   "memory": true,
+   "noise_floor": 0.9757286064766378,
+   "core_final": 0.9744324529363901,
+   "recovered": true,
+   "steps_to_recover": 105,
+   "C_before": [
+    [
+     29,
+     29
+    ]
+   ],
+   "C_after": [
+    [
+     29,
+     29
+    ]
+   ]
+  },
+  {
+   "seed": 1,
+   "memory": true,
+   "noise_floor": 0.9744881889763779,
+   "core_final": 0.9704874906787987,
+   "recovered": true,
+   "steps_to_recover": 102,
+   "C_before": [
+    [
+     29,
+     29
+    ]
+   ],
+   "C_after": [
+    [
+     29,
+     29
+    ]
+   ]
+  },
+  {
+   "seed": 2,
+   "memory": true,
+   "noise_floor": 0.9765589519650655,
+   "core_final": 0.9755148342059337,
+   "recovered": true,
+   "steps_to_recover": 123,
+   "C_before": [
+    [
+     29,
+     29
+    ]
+   ],
+   "C_after": [
+    [
+     29,
+     29
+    ]
+   ]
+  },
+  {
+   "seed": 3,
+   "memory": true,
+   "noise_floor": 0.9743853530950307,
+   "core_final": 0.9625147026082616,
+   "recovered": true,
+   "steps_to_recover": 188,
+   "C_before": [
+    [
+     29,
+     29
+    ]
+   ],
+   "C_after": [
+    [
+     29,
+     29
+    ]
+   ]
+  },
+  {
+   "seed": 0,
+   "memory": false,
+   "noise_floor": 0.9757286064766378,
+   "core_final": 0.8330004093307898,
+   "recovered": false,
+   "steps_to_recover": null,
+   "C_before": [
+    [
+     29,
+     29
+    ]
+   ],
+   "C_after": [
+    [
+     28,
+     30
+    ]
+   ]
+  },
+  {
+   "seed": 1,
+   "memory": false,
+   "noise_floor": 0.9744881889763779,
+   "core_final": 0.8335941820193699,
+   "recovered": false,
+   "steps_to_recover": null,
+   "C_before": [
+    [
+     29,
+     29
+    ]
+   ],
+   "C_after": [
+    [
+     28,
+     30
+    ]
+   ]
+  },
+  {
+   "seed": 2,
+   "memory": false,
+   "noise_floor": 0.9765589519650655,
+   "core_final": 0.8235261063160797,
+   "recovered": false,
+   "steps_to_recover": null,
+   "C_before": [
+    [
+     29,
+     29
+    ]
+   ],
+   "C_after": [
+    [
+     30,
+     30
+    ]
+   ]
+  },
+  {
+   "seed": 3,
+   "memory": false,
+   "noise_floor": 0.9743853530950307,
+   "core_final": 0.7564694711560104,
+   "recovered": false,
+   "steps_to_recover": null,
+   "C_before": [
+    [
+     29,
+     29
+    ]
+   ],
+   "C_after": [
+    [
+     27,
+     30
+    ]
+   ]
+  }
+ ],
+ "physics": {
+  "rows": [
+   {
+    "body": "grown seed 0",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.95,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.81,
+     "shell": 35.68,
+     "conduit": 35.9,
+     "core": 35.95,
+     "sensor": 35.85,
+     "radiator": 35.54
+    },
+    "heat_in_W": 0.3705,
+    "radiated_W": 0.1128,
+    "convected_W": 0.2577,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.3705,
+    "flow_uL_s": 5.146,
+    "dp_Pa": 470.39,
+    "onboard_runtime_s": 10.0,
+    "mech_ok": true,
+    "bend_util": 0.16137,
+    "thermal_stress_MPa": 3.362,
+    "thermal_stress_util": 0.3362,
+    "mass_g": 2.211
+   },
+   {
+    "body": "grown seed 0",
+    "env": "vacuum",
+    "ok": false,
+    "T_max_C": 56.75,
+    "thermal_ok": false,
+    "thermal_violations": {
+     "conduit": 103
+    },
+    "per_tissue_T": {
+     "scaffold": 56.61,
+     "shell": 56.57,
+     "conduit": 56.71,
+     "core": 56.75,
+     "sensor": 56.68,
+     "radiator": 56.36
+    },
+    "heat_in_W": 0.3705,
+    "radiated_W": 0.3705,
+    "convected_W": 0.0,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.3705,
+    "flow_uL_s": 5.146,
+    "dp_Pa": 470.39,
+    "onboard_runtime_s": 10.0,
+    "mech_ok": true,
+    "bend_util": 0.16137,
+    "thermal_stress_MPa": 9.81,
+    "thermal_stress_util": 0.981,
+    "mass_g": 2.211
+   },
+   {
+    "body": "grown seed 1",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.93,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.8,
+     "shell": 35.67,
+     "conduit": 35.89,
+     "core": 35.93,
+     "sensor": 35.85,
+     "radiator": 35.54
+    },
+    "heat_in_W": 0.37,
+    "radiated_W": 0.1127,
+    "convected_W": 0.2573,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.37,
+    "flow_uL_s": 5.139,
+    "dp_Pa": 446.95,
+    "onboard_runtime_s": 9.5,
+    "mech_ok": true,
+    "bend_util": 0.16126,
+    "thermal_stress_MPa": 3.358,
+    "thermal_stress_util": 0.3358,
+    "mass_g": 2.209
+   },
+   {
+    "body": "grown seed 1",
+    "env": "vacuum",
+    "ok": false,
+    "T_max_C": 56.72,
+    "thermal_ok": false,
+    "thermal_violations": {
+     "conduit": 98
+    },
+    "per_tissue_T": {
+     "scaffold": 56.59,
+     "shell": 56.55,
+     "conduit": 56.68,
+     "core": 56.72,
+     "sensor": 56.66,
+     "radiator": 56.29
+    },
+    "heat_in_W": 0.37,
+    "radiated_W": 0.37,
+    "convected_W": 0.0,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.37,
+    "flow_uL_s": 5.139,
+    "dp_Pa": 446.95,
+    "onboard_runtime_s": 9.5,
+    "mech_ok": true,
+    "bend_util": 0.16126,
+    "thermal_stress_MPa": 9.803,
+    "thermal_stress_util": 0.9803,
+    "mass_g": 2.209
+   },
+   {
+    "body": "grown seed 2",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.89,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.77,
+     "shell": 35.63,
+     "conduit": 35.84,
+     "core": 35.89,
+     "sensor": 35.77,
+     "radiator": 35.49
+    },
+    "heat_in_W": 0.3695,
+    "radiated_W": 0.1124,
+    "convected_W": 0.2571,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.3695,
+    "flow_uL_s": 5.132,
+    "dp_Pa": 464.57,
+    "onboard_runtime_s": 9.9,
+    "mech_ok": true,
+    "bend_util": 0.16138,
+    "thermal_stress_MPa": 3.347,
+    "thermal_stress_util": 0.3347,
+    "mass_g": 2.214
+   },
+   {
+    "body": "grown seed 2",
+    "env": "vacuum",
+    "ok": false,
+    "T_max_C": 56.62,
+    "thermal_ok": false,
+    "thermal_violations": {
+     "conduit": 102
+    },
+    "per_tissue_T": {
+     "scaffold": 56.5,
+     "shell": 56.45,
+     "conduit": 56.58,
+     "core": 56.62,
+     "sensor": 56.54,
+     "radiator": 56.19
+    },
+    "heat_in_W": 0.3695,
+    "radiated_W": 0.3695,
+    "convected_W": 0.0,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.3695,
+    "flow_uL_s": 5.132,
+    "dp_Pa": 464.57,
+    "onboard_runtime_s": 9.9,
+    "mech_ok": true,
+    "bend_util": 0.16138,
+    "thermal_stress_MPa": 9.774,
+    "thermal_stress_util": 0.9774,
+    "mass_g": 2.214
+   },
+   {
+    "body": "grown seed 3",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.91,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.79,
+     "shell": 35.64,
+     "conduit": 35.86,
+     "core": 35.91,
+     "sensor": 35.82,
+     "radiator": 35.51
+    },
+    "heat_in_W": 0.3705,
+    "radiated_W": 0.1127,
+    "convected_W": 0.2578,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.3705,
+    "flow_uL_s": 5.146,
+    "dp_Pa": 484.09,
+    "onboard_runtime_s": 10.3,
+    "mech_ok": true,
+    "bend_util": 0.16208,
+    "thermal_stress_MPa": 3.353,
+    "thermal_stress_util": 0.3353,
+    "mass_g": 2.218
+   },
+   {
+    "body": "grown seed 3",
+    "env": "vacuum",
+    "ok": false,
+    "T_max_C": 56.69,
+    "thermal_ok": false,
+    "thermal_violations": {
+     "conduit": 106
+    },
+    "per_tissue_T": {
+     "scaffold": 56.56,
+     "shell": 56.51,
+     "conduit": 56.65,
+     "core": 56.69,
+     "sensor": 56.62,
+     "radiator": 56.25
+    },
+    "heat_in_W": 0.3705,
+    "radiated_W": 0.3705,
+    "convected_W": 0.0,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.3705,
+    "flow_uL_s": 5.146,
+    "dp_Pa": 484.09,
+    "onboard_runtime_s": 10.3,
+    "mech_ok": true,
+    "bend_util": 0.16208,
+    "thermal_stress_MPa": 9.791,
+    "thermal_stress_util": 0.9791,
+    "mass_g": 2.218
+   },
+   {
+    "body": "grown seed 4",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.9,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.78,
+     "shell": 35.64,
+     "conduit": 35.85,
+     "core": 35.9,
+     "sensor": 35.78,
+     "radiator": 35.5
+    },
+    "heat_in_W": 0.368,
+    "radiated_W": 0.1124,
+    "convected_W": 0.2556,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.368,
+    "flow_uL_s": 5.111,
+    "dp_Pa": 480.83,
+    "onboard_runtime_s": 10.4,
+    "mech_ok": true,
+    "bend_util": 0.15983,
+    "thermal_stress_MPa": 3.349,
+    "thermal_stress_util": 0.3349,
+    "mass_g": 2.196
+   },
+   {
+    "body": "grown seed 4",
+    "env": "vacuum",
+    "ok": false,
+    "T_max_C": 56.55,
+    "thermal_ok": false,
+    "thermal_violations": {
+     "conduit": 106
+    },
+    "per_tissue_T": {
+     "scaffold": 56.44,
+     "shell": 56.39,
+     "conduit": 56.51,
+     "core": 56.55,
+     "sensor": 56.47,
+     "radiator": 56.12
+    },
+    "heat_in_W": 0.368,
+    "radiated_W": 0.368,
+    "convected_W": 0.0,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.368,
+    "flow_uL_s": 5.111,
+    "dp_Pa": 480.83,
+    "onboard_runtime_s": 10.4,
+    "mech_ok": true,
+    "bend_util": 0.15983,
+    "thermal_stress_MPa": 9.75,
+    "thermal_stress_util": 0.975,
+    "mass_g": 2.196
+   },
+   {
+    "body": "grown seed 5",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.95,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.82,
+     "shell": 35.69,
+     "conduit": 35.9,
+     "core": 35.95,
+     "sensor": 35.86,
+     "radiator": 35.56
+    },
+    "heat_in_W": 0.371,
+    "radiated_W": 0.1127,
+    "convected_W": 0.2583,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.371,
+    "flow_uL_s": 5.153,
+    "dp_Pa": 448.16,
+    "onboard_runtime_s": 9.5,
+    "mech_ok": true,
+    "bend_util": 0.16192,
+    "thermal_stress_MPa": 3.365,
+    "thermal_stress_util": 0.3365,
+    "mass_g": 2.218
+   },
+   {
+    "body": "grown seed 5",
+    "env": "vacuum",
+    "ok": false,
+    "T_max_C": 56.85,
+    "thermal_ok": false,
+    "thermal_violations": {
+     "conduit": 98
+    },
+    "per_tissue_T": {
+     "scaffold": 56.72,
+     "shell": 56.69,
+     "conduit": 56.81,
+     "core": 56.85,
+     "sensor": 56.79,
+     "radiator": 56.43
+    },
+    "heat_in_W": 0.371,
+    "radiated_W": 0.371,
+    "convected_W": 0.0,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.371,
+    "flow_uL_s": 5.153,
+    "dp_Pa": 448.16,
+    "onboard_runtime_s": 9.5,
+    "mech_ok": true,
+    "bend_util": 0.16192,
+    "thermal_stress_MPa": 9.844,
+    "thermal_stress_util": 0.9844,
+    "mass_g": 2.218
+   },
+   {
+    "body": "regrown: anterior amputation (incl. organizer A)",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.84,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.71,
+     "shell": 35.57,
+     "conduit": 35.79,
+     "core": 35.84,
+     "sensor": 35.72,
+     "radiator": 35.44
+    },
+    "heat_in_W": 0.3685,
+    "radiated_W": 0.1124,
+    "convected_W": 0.2561,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.3685,
+    "flow_uL_s": 5.118,
+    "dp_Pa": 454.23,
+    "onboard_runtime_s": 9.8,
+    "mech_ok": true,
+    "bend_util": 0.16122,
+    "thermal_stress_MPa": 3.329,
+    "thermal_stress_util": 0.3329,
+    "mass_g": 2.211
+   },
+   {
+    "body": "regrown: large anterior amputation (incl. A)",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.88,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.82,
+     "shell": 35.61,
+     "conduit": 35.83,
+     "core": 35.88,
+     "sensor": 35.76,
+     "radiator": 35.48
+    },
+    "heat_in_W": 0.37,
+    "radiated_W": 0.1127,
+    "convected_W": 0.2573,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.37,
+    "flow_uL_s": 5.139,
+    "dp_Pa": 469.76,
+    "onboard_runtime_s": 10.0,
+    "mech_ok": true,
+    "bend_util": 0.16157,
+    "thermal_stress_MPa": 3.359,
+    "thermal_stress_util": 0.3359,
+    "mass_g": 2.214
+   },
+   {
+    "body": "regrown: core excision (incl. organizer C)",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.91,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.78,
+     "shell": 35.65,
+     "conduit": 35.86,
+     "core": 35.91,
+     "sensor": 35.82,
+     "radiator": 35.51
+    },
+    "heat_in_W": 0.37,
+    "radiated_W": 0.1127,
+    "convected_W": 0.2573,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.37,
+    "flow_uL_s": 5.139,
+    "dp_Pa": 451.52,
+    "onboard_runtime_s": 9.6,
+    "mech_ok": true,
+    "bend_util": 0.16132,
+    "thermal_stress_MPa": 3.35,
+    "thermal_stress_util": 0.335,
+    "mass_g": 2.211
+   },
+   {
+    "body": "regrown: posterior wedge (incl. organizer P)",
+    "env": "air",
+    "ok": true,
+    "T_max_C": 35.89,
+    "thermal_ok": true,
+    "thermal_violations": {},
+    "per_tissue_T": {
+     "scaffold": 35.81,
+     "shell": 35.64,
+     "conduit": 35.84,
+     "core": 35.89,
+     "sensor": 35.8,
+     "radiator": 35.51
+    },
+    "heat_in_W": 0.37,
+    "radiated_W": 0.1124,
+    "convected_W": 0.2576,
+    "power_ok": true,
+    "max_droop": 0.0,
+    "joule_W": 0.0,
+    "load_W": 0.37,
+    "flow_uL_s": 5.139,
+    "dp_Pa": 319.25,
+    "onboard_runtime_s": 6.8,
+    "mech_ok": true,
+    "bend_util": 0.16199,
+    "thermal_stress_MPa": 3.357,
+    "thermal_stress_util": 0.3357,
+    "mass_g": 2.217
+   }
+  ],
+  "max_core_W_air": 0.4418386798352003,
+  "max_core_W_vacuum": 0.09110463783144951,
+  "no_copper": {
+   "max_droop": 1.1430651263727087,
+   "collapsed": true,
+   "power_ok": false
+  },
+  "no_heat_pipes": {
+   "T_max_C": 37.76454926410565,
+   "thermal_ok": true,
+   "violations": {},
+   "max_core_W_air": 0.37265994120389223
+  },
+  "block_props": {
+   "scaffold": {
+    "rho": 1907.8,
+    "k": 166.182,
+    "E": 24110000000.0,
+    "cte": 2.083844877644131e-05,
+    "sigma_e": 1740008.2,
+    "strength": 60000000.0,
+    "Tmax": 120,
+    "Tmax_limited_by": "graphene_epoxy",
+    "strength_limited_by": "graphene_epoxy",
+    "eps": 0.85
+   },
+   "shell": {
+    "rho": 2072.8,
+    "k": 166.022,
+    "E": 73610000000.0,
+    "cte": 7.232916723271295e-06,
+    "sigma_e": 1740007.2000001,
+    "strength": 60000000.0,
+    "Tmax": 120,
+    "Tmax_limited_by": "graphene_epoxy",
+    "strength_limited_by": "graphene_epoxy",
+    "eps": 0.5
+   },
+   "conduit": {
+    "rho": 1940.3,
+    "k": 113.89299999999999,
+    "E": 30260000000.0,
+    "cte": 1.013995373430271e-05,
+    "sigma_e": 1740014.7,
+    "strength": 60000000.0,
+    "Tmax": 40,
+    "Tmax_limited_by": "vrfb_electrolyte",
+    "strength_limited_by": "graphene_epoxy",
+    "eps": 0.9
+   },
+   "core": {
+    "rho": 2662.9000000000005,
+    "k": 325.96000000000004,
+    "E": 125610000000.0,
+    "cte": 5.510508717458801e-06,
+    "sigma_e": 1740077.0,
+    "strength": 200000000.0,
+    "Tmax": 85,
+    "Tmax_limited_by": "si",
+    "strength_limited_by": "heat_pipe",
+    "eps": 0.6
+   },
+   "sensor": {
+    "rho": 3656.25,
+    "k": 76.467,
+    "E": 90010000000.0,
+    "cte": 4.973114098433507e-06,
+    "sigma_e": 1740057.0,
+    "strength": 55000000.0,
+    "Tmax": 70,
+    "Tmax_limited_by": "ingaas",
+    "strength_limited_by": "znse",
+    "eps": 0.1
+   },
+   "radiator": {
+    "rho": 1067.5,
+    "k": 850.765,
+    "E": 17750000000.0,
+    "cte": 7.323943661971833e-07,
+    "sigma_e": 85001.5,
+    "strength": 20000000.0,
+    "Tmax": 120,
+    "Tmax_limited_by": "graphene_epoxy",
+    "strength_limited_by": "pgs",
+    "eps": 0.85
+   }
+  },
+  "cfg": {
+   "a": 0.001,
+   "T_env": 25.0,
+   "h_conv": 10.0,
+   "P_core": 0.3,
+   "P_sensor_block": 0.0005,
+   "V_bus": 1.25,
+   "droop_max": 0.1,
+   "g_load": 100.0,
+   "latch_strength": 20000000.0,
+   "safety": 2.0,
+   "T_assembly": 25.0
+  }
+ },
+ "figures": [
+  "/workspace/nano_build/layer0/figures/1_growth_sequence.png",
+  "/workspace/nano_build/layer0/figures/2_regeneration.png",
+  "/workspace/nano_build/layer0/figures/3_error_correction_ablation.png",
+  "/workspace/nano_build/layer0/figures/3b_mutation_examples.png",
+  "/workspace/nano_build/layer0/figures/4_scaling.png",
+  "/workspace/nano_build/layer0/figures/5_morph.png",
+  "/workspace/nano_build/layer0/figures/6_physics.png"
+ ],
+ "runtime_s": 348.64160227775574
+}

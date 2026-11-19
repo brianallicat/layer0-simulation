@@ -1,0 +1,8 @@
+{
+  "title": "Layer 0: simulation code and data",
+  "upload_type": "software",
+  "description": "Simulation code, tests, saved run data and reports for the Layer 0 study: a two-dimensional body grown from a 131-byte hand-written genome, with regeneration scoring, copy-error ablation and a per-block materials check.",
+  "creators": [{"name": "Stearns, Brian Russell", "affiliation": "Global Resources Management Group LLC", "orcid": "0009-0007-0404-4798"}],
+  "license": "MIT",
+  "keywords": ["artificial life", "morphogenetic engineering", "regeneration", "cellular automata", "positional information"]
+}

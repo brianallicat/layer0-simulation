@@ -1,0 +1,156 @@
+[
+ {
+  "genome": "hand-written (wild type)",
+  "set": "lam7_training_seeds",
+  "seed": 1,
+  "lam": 7.0,
+  "sustained": true,
+  "last50_vs_ref": 0.9709200291095739,
+  "threshold": 0.9448542664684396,
+  "cells_final": 1141,
+  "context_self_last50": 0.9704874906787987
+ },
+ {
+  "genome": "hand-written (wild type)",
+  "set": "lam7_training_seeds",
+  "seed": 2,
+  "lam": 7.0,
+  "sustained": true,
+  "last50_vs_ref": 0.9123668122270743,
+  "threshold": 0.8840175375805296,
+  "cells_final": 1144,
+  "context_self_last50": 0.9755148342059337
+ },
+ {
+  "genome": "hand-written (wild type)",
+  "set": "lam5_heldout_seeds",
+  "seed": 4,
+  "lam": 5.0,
+  "sustained": true,
+  "last50_vs_ref": 0.9228711256117457,
+  "threshold": 0.8982218597063623,
+  "cells_final": 611,
+  "context_self_last50": 0.9625490196078432
+ },
+ {
+  "genome": "hand-written (wild type)",
+  "set": "lam5_heldout_seeds",
+  "seed": 6,
+  "lam": 5.0,
+  "sustained": true,
+  "last50_vs_ref": 0.9524758842443731,
+  "threshold": 0.9391680261011419,
+  "cells_final": 621,
+  "context_self_last50": 0.9529361935680963
+ },
+ {
+  "genome": "hand-written (wild type)",
+  "set": "lam5_heldout_seeds",
+  "seed": 7,
+  "lam": 5.0,
+  "sustained": true,
+  "last50_vs_ref": 0.9464926590538336,
+  "threshold": 0.9186460032626427,
+  "cells_final": 612,
+  "context_self_last50": 0.9663295269168026
+ },
+ {
+  "genome": "hand-written (wild type)",
+  "set": "lam5_heldout_seeds",
+  "seed": 42,
+  "lam": 5.0,
+  "sustained": true,
+  "last50_vs_ref": 0.9420813008130081,
+  "threshold": 0.9186460032626427,
+  "cells_final": 614,
+  "context_self_last50": 0.9660813008130078
+ },
+ {
+  "genome": "hand-written (wild type)",
+  "set": "lam5_heldout_seeds",
+  "seed": 10000,
+  "lam": 5.0,
+  "sustained": true,
+  "last50_vs_ref": 0.8810766721044045,
+  "threshold": 0.8555791190864601,
+  "cells_final": 612,
+  "context_self_last50": 0.9693954514921792
+ },
+ {
+  "genome": "evolved #1",
+  "set": "lam7_training_seeds",
+  "seed": 1,
+  "lam": 7.0,
+  "sustained": false,
+  "last50_vs_ref": 0.0,
+  "threshold": 0.8771758635852538,
+  "cells_final": 0,
+  "context_self_last50": 0.0
+ },
+ {
+  "genome": "evolved #1",
+  "set": "lam7_training_seeds",
+  "seed": 2,
+  "lam": 7.0,
+  "sustained": false,
+  "last50_vs_ref": 0.7294730381581114,
+  "threshold": 0.8825522487136659,
+  "cells_final": 1179,
+  "context_self_last50": 0.7221781025697276
+ },
+ {
+  "genome": "evolved #1",
+  "set": "lam5_heldout_seeds",
+  "seed": 4,
+  "lam": 5.0,
+  "sustained": false,
+  "last50_vs_ref": 0.9035445756823557,
+  "threshold": 0.9026916802610114,
+  "cells_final": 627,
+  "context_self_last50": 0.9411282133165894
+ },
+ {
+  "genome": "evolved #1",
+  "set": "lam5_heldout_seeds",
+  "seed": 6,
+  "lam": 5.0,
+  "sustained": false,
+  "last50_vs_ref": 0.9035445756823557,
+  "threshold": 0.9018566775244301,
+  "cells_final": 627,
+  "context_self_last50": 0.9405894848421879
+ },
+ {
+  "genome": "evolved #1",
+  "set": "lam5_heldout_seeds",
+  "seed": 7,
+  "lam": 5.0,
+  "sustained": false,
+  "last50_vs_ref": 0.8611894295206174,
+  "threshold": 0.8612195121951219,
+  "cells_final": 632,
+  "context_self_last50": 0.9405977483746696
+ },
+ {
+  "genome": "evolved #1",
+  "set": "lam5_heldout_seeds",
+  "seed": 42,
+  "lam": 5.0,
+  "sustained": true,
+  "last50_vs_ref": 0.9165261381387828,
+  "threshold": 0.9012561174551387,
+  "cells_final": 620,
+  "context_self_last50": 0.9629356288300602
+ },
+ {
+  "genome": "evolved #1",
+  "set": "lam5_heldout_seeds",
+  "seed": 10000,
+  "lam": 5.0,
+  "sustained": false,
+  "last50_vs_ref": 0.9088916547922896,
+  "threshold": 0.9026916802610114,
+  "cells_final": 623,
+  "context_self_last50": 0.9381777291708672
+ }
+]
